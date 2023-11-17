@@ -1,4 +1,0 @@
-pyautogui
-telebot
-opencv-python
-opencv-python-headless
